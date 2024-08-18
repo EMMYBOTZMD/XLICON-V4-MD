@@ -44,16 +44,16 @@ global.socialm = "GitHub: salmanytofficial" //ur github or insta name
 global.location = "Pakistan, Lahore, Sabzazar" //ur location
 
 //new
-global.botname = 'XLICON-V4-MD' //ur bot name
-global.ownernumber = ['923184070915'] //ur owner number, dont add more than one
-global.ownername = '𝙎𝙖𝙡𝙢𝙖𝙣 𝘼𝙝𝙢𝙖𝙙' //ur owner name
+global.botname = 'EMMYBOTZ-MD' //ur bot name
+global.ownernumber = ['2349127237506'] //ur owner number, dont add more than one
+global.ownername = 'ProfessorBotz' //ur owner name
 global.websitex = "https://youtu.com/@s4salmanyt"
 global.wagc = "https://whatsapp.com/channel/0029VaINgEZK0IBaK1nDtE3f"
 global.themeemoji = '⛩'
 global.wm = "Xlicon Bot Inc."
 global.botscript = 'https://github.com/salmanytofficial/XLICON-V4-MD' //script link
 global.packname = "𝘼𝙃𝙃𝙈𝙄 𝙆𝙐𝙉"
-global.author = "MΛDΣ BY 𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿"
+global.author = "MΛDΣ BY EMMYBOTZ-MD 💯"
 global.creator = "923184070915@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["923184070915"] // Premium User
